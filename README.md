@@ -5,7 +5,7 @@
 # 1 Эксперимент
 Все обучаемые особи имеют следующий вид. 
 
-![Screenshot]([/screenshots/Screenshot 2023-09-20 193839.jpg](https://github.com/RappingHalfling/Genetic_alg/blob/4211013dd49a71c1e3a0baec52575cf774e97a3c/screenshots/Screenshot%202023-09-20%20193839.jpg))
+![Image alt](https://github.com/RappingHalfling/Genetic_alg/blob/main/screenshots/Screenshot%202023-09-20%20193839.jpg)
 
 Каждый представитель управляется сетью вида перцептрон. На вход сети подается расстояние от стены до тела особи, относительно каждого красного луча. Выход сети: 2 параметра определяющие скорость движения в перёд и скорость поворота вокруг собственной оси.
 
@@ -13,12 +13,12 @@
 
 Ожидаемый конечный результат: выведение особи способной проходить трассы похожего вида
 
-![Screenshot](/screenshots/Screenshot 2023-09-20 193925.jpg )
+![Image alt](https://github.com/RappingHalfling/Genetic_alg/blob/main/screenshots/Screenshot%202023-09-20%20193925.jpg)
 
 # 2 Эксперимент
 Теперь особи представлены в виде "змей", движение которых происходит за счет сгибания 10 суставов
 
-![Screenshot](/screenshots/Screenshot 2023-09-20 194031.jpg)
+![Image alt](https://github.com/RappingHalfling/Genetic_alg/blob/main/screenshots/Screenshot%202023-09-20%20194031.jpg)
 
 Нейросеть "змеи" Получает на вход текущий угол сгибания каждого сустава. Выходом являются новые значения сгиба.
 
